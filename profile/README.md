@@ -9,5 +9,5 @@ LaTopia is an organization dedicated to making products and providing online ser
 # Our projects
 Currently, we are working on:
 
-- [ ] LaChat
+- [LaChat](http://github.com/LaTopiaDev/LaChat)
   - A chatting application focused on usability and simplicity that is choked full of features making it easier for everyone to share their ideas. LaChat has many features especially trailed to the needs of design and development teams. 
